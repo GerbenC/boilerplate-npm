@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Gerben Claes"
+	"author": "Gerben Claes",
+	"description": "A project used for the API & Microservices excercise of Free Code Camp"
 }
